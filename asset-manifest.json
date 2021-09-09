@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/los-pollos-hermanos/static/css/main.b620a045.chunk.css",
+    "main.js": "/los-pollos-hermanos/static/js/main.def3fd24.chunk.js",
+    "main.js.map": "/los-pollos-hermanos/static/js/main.def3fd24.chunk.js.map",
+    "runtime-main.js": "/los-pollos-hermanos/static/js/runtime-main.9c186ece.js",
+    "runtime-main.js.map": "/los-pollos-hermanos/static/js/runtime-main.9c186ece.js.map",
+    "static/js/2.5b1a22a4.chunk.js": "/los-pollos-hermanos/static/js/2.5b1a22a4.chunk.js",
+    "static/js/2.5b1a22a4.chunk.js.map": "/los-pollos-hermanos/static/js/2.5b1a22a4.chunk.js.map",
+    "index.html": "/los-pollos-hermanos/index.html",
+    "static/css/main.b620a045.chunk.css.map": "/los-pollos-hermanos/static/css/main.b620a045.chunk.css.map",
+    "static/js/2.5b1a22a4.chunk.js.LICENSE.txt": "/los-pollos-hermanos/static/js/2.5b1a22a4.chunk.js.LICENSE.txt",
+    "static/media/header-image.b46f4b5c.jpg": "/los-pollos-hermanos/static/media/header-image.b46f4b5c.jpg",
+    "static/media/logo.995a63e5.png": "/los-pollos-hermanos/static/media/logo.995a63e5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c186ece.js",
+    "static/js/2.5b1a22a4.chunk.js",
+    "static/css/main.b620a045.chunk.css",
+    "static/js/main.def3fd24.chunk.js"
+  ]
+}
